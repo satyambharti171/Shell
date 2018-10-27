@@ -54,8 +54,8 @@ test_network.ksh - A quick network test to test the network
 
 transfer_script.sh - This will send a given script to a certain server once prompted, if it can't find the script it searches for scripts with a similar name
 
-unix_users_to_sql.ksh - Export UNIX users to sql, you can change the last line if you want the output to go to a file, rather than be inserted straight into the database
+*unix_users_to_sql.ksh* - Export UNIX users to sql, you can change the last line if you want the output to go to a file, rather than be inserted straight into the database
 
-vosstat.sh - Gather OS statistics to place in to the database
+*vosstat.sh* - Gather OS statistics to place in to the database
 
-world_writable.ksh - Gather OS statistics to place in to the database
+*world_writable.ksh* - Gather OS statistics to place in to the database
